@@ -160,6 +160,7 @@ Skills are not MCP servers and not tools. MCP defines how an agent connects to e
 
 ### Business & Marketing
 
+- [Synter Multi-Channel Ad Operations](https://github.com/synter-media/synter-media/tree/main/packages/mcp-server) - Gives Claude Code and Claude Desktop direct operational access across 30+ ad platforms (Google Ads, Meta, LinkedIn, X, Reddit, TikTok, Snap, Microsoft Bing, Amazon Ads & DSP, AppLovin, Liftoff, The Trade Desk, etc.). Features 100% free diagnostic reads ($0.00 / 0 credits), zero-credential sandbox testing (`--demo`), and Ångström verification. *By [@synter-media](https://github.com/synter-media)*
 - [Brand Build Skills](https://github.com/rampstackco/claude-skills) - 59-skill library covering the full website lifecycle: brand, design, content, SEO, dev, ops, growth, and research. Stack-agnostic with an Ahrefs MCP-powered SEO audit suite. Includes a meta-skill for writing your own. *By [@rampstackco](https://github.com/rampstackco)*
 - [Brand Guidelines](./brand-guidelines/) - Applies Anthropic's official brand colors and typography to artifacts for consistent visual identity and professional design standards.
 - [Competitive Ads Extractor](./competitive-ads-extractor/) - Extracts and analyzes competitors' ads from ad libraries to understand messaging and creative approaches that resonate.
